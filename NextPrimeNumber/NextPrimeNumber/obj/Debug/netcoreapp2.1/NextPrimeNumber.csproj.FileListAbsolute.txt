@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\bin\Debug\netcoreapp2.1\NextPrimeNumber.deps.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\bin\Debug\netcoreapp2.1\NextPrimeNumber.runtimeconfig.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\bin\Debug\netcoreapp2.1\NextPrimeNumber.runtimeconfig.dev.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\bin\Debug\netcoreapp2.1\NextPrimeNumber.dll
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\bin\Debug\netcoreapp2.1\NextPrimeNumber.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\obj\Debug\netcoreapp2.1\NextPrimeNumber.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\obj\Debug\netcoreapp2.1\NextPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\obj\Debug\netcoreapp2.1\NextPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\obj\Debug\netcoreapp2.1\NextPrimeNumber.AssemblyInfo.cs
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\obj\Debug\netcoreapp2.1\NextPrimeNumber.dll
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\NextPrimeNumber\NextPrimeNumber\obj\Debug\netcoreapp2.1\NextPrimeNumber.pdb
